@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hiero Translator</string>
+
+    <string name="welcomeEn">WELCOME</string>
+    <string name="welcomeAr">مرحبا</string>
+    <string name="welcomeGerman">Willkommen</string>
+    <string name="welcomeFr">Bienvenue</string>
+    <string name="welcomeSpain">Bienvenido </string>
+    <string name="welcomeRussian">Добро пожаловать!</string>
+
+    <string name="scanner">SCANNER</string>
+    <string name="myItems">MY ITEMS</string>
+    <string name="languages">LANGUAGE SETTINGS</string>
+
+    <string name="egypt">عربى</string>
+    <string name="english">English</string>
+    <string name="deutsch">Deutsche</string>
+    <string name="francis">Français</string>
+    <string name="russia">русский</string>
+    <string name="spain">Español</string>
+
+    <string name="tip">TIP</string>
+    <string name="pleaseMake">Please make the cartouche you want to scan within the area of the scanner above</string>
+
+
+    <string name="tapForMore">Tab for more information</string>
+
+    <string name="about">About:</string>
+    <string name="capturedPhoto">Captured Photo:</string>
+
+</resources>

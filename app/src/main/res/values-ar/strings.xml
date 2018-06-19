@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="scanner">الماسح الضوئي</string>
+    <string name="myItems">أشيائي</string>
+    <string name="languages">اعدادات اللغة</string>
+
+
+    <string name="tip">ملحوظة</string>
+    <string name="pleaseMake">يرجى جعل الخرطوشة التى تريد مسحها داخل منطقة الماسح الضوئي أعلاه</string>
+
+
+    <string name="tapForMore">اضغط لمزيد من المعلومات</string>
+
+    <string name="about">وصف:</string>
+    <string name="capturedPhoto">الصورة الملتقطة:</string>
+
+</resources>

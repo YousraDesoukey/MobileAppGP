@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="scanner">СКАНЕР</string>
+    <string name="myItems">МОИ ДЕТАЛИ</string>
+    <string name="languages">ЯЗЫКОВЫЕ НАСТРОЙКИ</string>
+
+    <string name="tip">НАКОНЕЧНИК</string>
+    <string name="pleaseMake">Пожалуйста, сделайте картуш, который вы хотите отсканировать, в области сканера выше</string>
+
+
+    <string name="tapForMore">Вкладка для дополнительной информации</string>
+
+    <string name="about">Около:</string>
+    <string name="capturedPhoto">Захваченное фото:</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="scanner">SCANNER</string>
+    <string name="myItems">MES ARTICLES</string>
+    <string name="languages">PARAMÈTRES DE LANGUE</string>
+
+    <string name="tip">POINTE</string>
+    <string name="pleaseMake">Veuillez faire le cartouche que vous voulez numériser dans la zone du scanner ci-dessus</string>
+
+
+    <string name="tapForMore">Tab pour plus d\'informations</string>
+
+    <string name="about">Sur:</string>
+    <string name="capturedPhoto">Photo capturée:</string>
+
+</resources>

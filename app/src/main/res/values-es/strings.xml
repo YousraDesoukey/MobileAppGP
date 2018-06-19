@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="scanner">ESCÁNER</string>
+    <string name="myItems">MIS COSAS</string>
+    <string name="languages">AJUSTES DE IDIOMA</string>
+
+
+    <string name="tip">PROPINA</string>
+    <string name="pleaseMake">Haga el cartucho que desea escanear dentro del área del escáner anterior</string>
+
+
+    <string name="tapForMore">Pestaña para más información</string>
+
+    <string name="about">Acerca de:</string>
+    <string name="capturedPhoto">Foto capturada:</string>
+
+</resources>

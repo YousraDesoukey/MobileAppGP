@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="scanner">SCANNER</string>
+    <string name="myItems">MEINE SACHEN</string>
+    <string name="languages">SPRACHEINSTELL UNGEN</string>
+
+
+    <string name="tip">SPITZE</string>
+    <string name="pleaseMake">Bitte machen Sie die Kartusche, die Sie scannen wollen, im oberen Bereich des Scanners</string>
+
+
+    <string name="tapForMore">Tab für weitere Informationen</string>
+
+    <string name="about">Über:</string>
+    <string name="capturedPhoto">Eingefangenes Foto:</string>
+
+</resources>
